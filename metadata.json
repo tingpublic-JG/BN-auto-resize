@@ -1,0 +1,5 @@
+{
+  "name": "AI Smart Layout Designer",
+  "description": "An intelligent graphic design tool that adapts images to various advertising platform specifications using generative fill and smart layout recomposition.",
+  "requestFramePermissions": []
+}
